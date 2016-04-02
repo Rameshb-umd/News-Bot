@@ -26,7 +26,7 @@ the user.***
 **Search a phrase/word from the public stream and summarize and reply back top three popular tweets**  
 **Input** : ‘@Rate_Tweets_Bot #Brussels Attack#’  
 **Output**: Top 3 Tweets containing the Phrase ‘Brussels Attack’ and its rating and exposure
-statistics.
+statistics.  
 **Method**: The bot collects tweets with given phrase from all the accounts till a set limit is
 reached. The tweets are then rated based on tweet’s potential exposure or audience and also the
 rate of interaction with the tweet and tweet owner’s account. It also takes in account tweet
@@ -37,7 +37,7 @@ replied back to the user.
 popular tweet**  
 **Input** : ‘@Rate_Tweets_Bot @Cnn #Brussels Attack#’  
 **Output**: Top 3 Tweets containing the Phrase ‘Brussels Attack’ and its rating and exposure
-statistics.
+statistics.  
 **Method**: The bot collects tweets with given phrase list of accounts the bot follows and also the
 account the user have mentioned in their tweet till a set limit is reached. The tweets are then
 rated based on tweet’s potential exposure or audience and also the rate of interaction with the
